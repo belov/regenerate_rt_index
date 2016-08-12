@@ -2,6 +2,14 @@
 
 This project demonstrate error for big texts in rake task ts:regenerate
 
+# Environment
+
+* ubuntu 16.04
+
+* Sphinx 2.2.11-id64-release (95ae9a6)
+
+
+# Run
  
 * bundle install
 
