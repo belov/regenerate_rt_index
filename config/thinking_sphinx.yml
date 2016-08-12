@@ -1,0 +1,14 @@
+development:
+  mem_limit: 1024M
+  rt_mem_limit: 3072M
+  mysql41: 9312
+test:
+  mem_limit: 1024M
+  rt_mem_limit: 3072M
+  mysql41: 9312
+
+production:
+  mem_limit: 1024M
+  rt_mem_limit: 3072M
+  mysql41: 9312
+
